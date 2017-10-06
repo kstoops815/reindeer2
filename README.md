@@ -34,7 +34,7 @@ Your task is to loop through all the reindeer in the array, and add the name of 
 
 ### Screen Shot of the Project
 
-![reindeer list](./images/reindeer.PNG)
+![reindeer list](./images/Reindeer.PNG)
 
 ### How do I run this project locally?
 
